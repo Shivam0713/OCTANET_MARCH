@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+
+    background-image: linear-gradient(rgb(0,0,0,0.75),rgb(0,0,0,0.75)),url(Todolistimage.jpg);
+    background-size: cover;
+    background-image: cover;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 220px;
+    font-weight: 900;
+    color:#008CBA;
+  }
+  input[type="text"] {
+    border-radius: 25px;
+    width: 50%;
+    padding: 8px;
+    margin-left: 200px;
+  }
+  
+  button {
+    border-radius: 25px;
+    margin: 6px;
+    position:absolute;
+    padding: 8px 15px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: .5s;
+  }
+  button{
+    position:relative;
+  }
+  button:hover{
+    color: #1ce6f5;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left:450px;
+  }
+  
+  li {
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  li button {
+    margin-left: 10px;
+    padding: 5px;
+    background-color: #ff3333;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+ 
+  
