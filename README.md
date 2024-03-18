@@ -1,2 +1,4 @@
 # OCTANET_MARCH
-WEB DEVELOPMENT TASK - 1 on landing page.
+WEB DEVELOPMENT TASKS
+Tasks 1 - On landing Page.
+Tasks 2 - To-do List.
